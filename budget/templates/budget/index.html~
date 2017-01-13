@@ -1,0 +1,26 @@
+{% if expenses_list %}
+<table>
+  <tr>
+    <th>No</th>
+    <th>Payer</th>
+    <th>Payee</th>
+    <th>Description</th>
+    <th>Note</th>
+    <th>Pay Day</th>
+    <th>Amount</th>
+  </tr>
+  {% for item in expenses_list %}
+  <tr>
+    <td>No</td>
+    <td>{{ item.payer_id }}</td>
+    <td>{{ item.payee_id }}</td>
+    <td>{{ item.description }}</td>
+    <td>{{ item.note }}</td>
+    <td>{{ item.pay_day }}</td>
+    <td>{{ item.amount }}</td>
+    </tr>
+  {% endfor %}
+</table>
+{% else %}
+   <p> No expenses are available.</p>
+{% endif %}

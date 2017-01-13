@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'django_tables2',
     'budget.apps.BudgetConfig',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -79,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'db.postgresql.wedding',
         'USER': 'admin',
-        'PASSWORD': '',
+        'PASSWORD': 'nevermore',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }

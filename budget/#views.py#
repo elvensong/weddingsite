@@ -10,6 +10,9 @@ class EditColumn(tables.Column):
         return format_html('<a href="budget/new/">Edit/{}</a>', value)
 
 class ExpenseTable(tables.Table):
+    normal = tables.Column()
+    
+    
     class Meta:
         model = Expense
 
