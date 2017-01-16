@@ -1,8 +1,11 @@
-{% load django_tables2 %}
+{% extends 'base.html' %}
+{% block body_block %}
+   {% load django_tables2 %}
 
-<h1>Cac khoan chi tieu cho dam cuoi</h1>
-<a href="/budget/new">Add new</a>
-{% render_table table %}
+   <h1>Cac khoan chi tieu cho dam cuoi</h1>
+   <a href="/budget/new">Add new</a>
+   {% render_table table %}
 
-   <p>Total: </p>
+<p>Total: </p>
+{% endblock %}
    

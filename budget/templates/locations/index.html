@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block body_block %}
+    {% for location in locations %}
+<section><h1> {{ location.name }}</h1><br>
+  Dia diem: {{location.address }}, phuong {{ location.ward }}, quan {{ location.district}}, {{ location.city }}
+  </section>
+  <br>
+    <iframe src="{{ location.map_link }}" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <br>
+    <hr/>
+    {% endfor %}
+{% endblock %}

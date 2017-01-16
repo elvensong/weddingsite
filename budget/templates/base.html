@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+{% load bootstrap3 %}
+
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+
+<style>
+  body { padding-top: 40px; }
+  @media screen and (max-width: 768px) {
+      body { padding-top: 0px; }
+  }
+</style>
+
+<meta charset="UTF-8">
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">My Wedding</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="/album/">Wedding Album</a></li>
+      <li><a href="#">Wedding Plan</a></li>
+      <li><a href="/budget/">Budget</a></li>
+      <li><a href="/locations/">Location</a></li>
+      <li><a href="#">Couple Contacts</a></li>
+  </div>
+</nav>
+<body>
+<div class="container">{% block body_block %}{% block content %}{% endblock %}{% endblock %}
+</body>
+</div>
+
+<footer class="footer">
+  <div class="container">
+    <p>
+      Created by: Dung Eve<br>
+      Contact Info <a href="mailto:dung.vu.eve@gmail.com">dung.vu.eve@gmail.com</a><br>
+      Cell: 016 460 2769
+  </p>
+  </div>
+</footer>
+
