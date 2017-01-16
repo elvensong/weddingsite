@@ -1,0 +1,1562 @@
+-- Logs begin at Sat 2017-01-14 00:04:03 ICT, end at Mon 2017-01-16 21:35:00 ICT. --
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_fixed_to_double.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server.c.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_socket_alloc.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.c.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_array_release.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_resource_for_each_safe.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_shm_buffer_get_format.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_init_shm.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_resource_set_destructor.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_event_source_timer_update.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_list_for_each.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-shm.c.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_shm_old_sigbus_action.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_disconnect.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_shm_buffer_get.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_client_flush.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_shm_buffer_get_data.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_client_for_each.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_global_bind_func_t.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_event_loop_idle_func_t.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_get_protocol_error.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_fixed_t.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_resource_find_for_client.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_flush.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server.c.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_client_connection_data.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_event_loop_dispatch_idle.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_resource_create.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_event_loop_get_fd.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_proxy_marshal.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_read_events.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_client_get_credentials.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_proxy_set_user_data.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_container_of.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_roundtrip.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-shm.c.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_shm_sigbus_once.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_get_error.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_proxy_marshal_constructor.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_prepare_read.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_proxy_get_class.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_client_get_link.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_cancel_read.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.c.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_log_handler.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_resource_post_event_array.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_client_post_no_memory.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_client_get_object.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_resource_destroy_func_t.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_client_for_each_resource.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_proxy_marshal_array_constructor_versioned.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_resource_set_dispatcher.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_shm_buffer_ref_pool.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.c.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_list_remove.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_create_queue.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_client_add_resource_created_listener.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_get_destroy_listener.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_client_create.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_event_source_remove.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_resource_for_each.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_log_set_handler_client.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_event_source_fd_update.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.c.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_list_insert.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_event_source_check.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_event_loop_add_fd.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_resource_queue_event_array.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_array_for_each.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-client-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_proxy_set_queue.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_list_for_each_reverse.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-util.c.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_array_copy.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/man3/wayland-server-core.h.3: No such file or directory
+Jan 15 23:14:10 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/wl_display_add_client_created_listener.3.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:11 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/fribidi_set_debug.3.gz: whatis parse for fribidi_set_debug(3) failed
+Jan 15 23:14:11 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/fribidi_unicode_version.3.gz: whatis parse for fribidi_unicode_version(3) failed
+Jan 15 23:14:11 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/fribidi_version_info.3.gz: whatis parse for fribidi_version_info(3) failed
+Jan 15 23:14:11 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/man3/pcre2demo.3.gz: whatis parse for pcre2demo(3) failed
+Jan 15 23:14:12 localhost mandb[241]: Updating index cache for path `/usr/share/man/man6'. Wait...
+Jan 15 23:14:12 localhost mandb[241]: Updating index cache for path `/usr/share/man/man7'. Wait...
+Jan 15 23:14:13 localhost mandb[241]: Updating index cache for path `/usr/share/man/man0'. Wait...
+Jan 15 23:14:13 localhost mandb[241]: Updating index cache for path `/usr/share/man/man2'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: done.
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/nl/man8'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: Checking for stray cats under /usr/share/man...
+Jan 15 23:14:14 localhost mandb[241]: Checking for stray cats under /var/cache/man...
+Jan 15 23:14:14 localhost mandb[241]: Processing manual pages under /usr/share/man/nl...
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/nl/man5'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/nl/man1'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: done.
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/zh_TW/man8'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: Checking for stray cats under /usr/share/man/nl...
+Jan 15 23:14:14 localhost mandb[241]: Checking for stray cats under /var/cache/man/nl...
+Jan 15 23:14:14 localhost mandb[241]: Processing manual pages under /usr/share/man/zh_TW...
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/zh_TW/man5'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: done.
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/tr/man8'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: Checking for stray cats under /usr/share/man/zh_TW...
+Jan 15 23:14:14 localhost mandb[241]: Checking for stray cats under /var/cache/man/zh_TW...
+Jan 15 23:14:14 localhost mandb[241]: Processing manual pages under /usr/share/man/tr...
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/tr/man5'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/tr/man1'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: done.
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr.UTF-8/man8'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: Checking for stray cats under /usr/share/man/tr...
+Jan 15 23:14:14 localhost mandb[241]: Checking for stray cats under /var/cache/man/tr...
+Jan 15 23:14:14 localhost mandb[241]: Processing manual pages under /usr/share/man/fr.UTF-8...
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr.UTF-8/man5'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr.UTF-8/man1'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr.UTF-8/man7'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: done.
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/it/man8'. Wait...
+Jan 15 23:14:14 localhost mandb[241]: Checking for stray cats under /usr/share/man/fr.UTF-8...
+Jan 15 23:14:14 localhost mandb[241]: Checking for stray cats under /var/cache/man/fr.UTF-8...
+Jan 15 23:14:14 localhost mandb[241]: Processing manual pages under /usr/share/man/it...
+Jan 15 23:14:14 localhost mandb[241]: Updating index cache for path `/usr/share/man/it/man5'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/it/man1'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/it/man3'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: done.
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/it.UTF-8/man1'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /usr/share/man/it...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /var/cache/man/it...
+Jan 15 23:14:15 localhost mandb[241]: Processing manual pages under /usr/share/man/it.UTF-8...
+Jan 15 23:14:15 localhost mandb[241]: done.
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr/man8'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /usr/share/man/it.UTF-8...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /var/cache/man/it.UTF-8...
+Jan 15 23:14:15 localhost mandb[241]: Processing manual pages under /usr/share/man/fr...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr/man5'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr/man1'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr/man3'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: done.
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/pl/man8'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /usr/share/man/fr...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /var/cache/man/fr...
+Jan 15 23:14:15 localhost mandb[241]: Processing manual pages under /usr/share/man/pl...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/pl/man5'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/pl/man1'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/pl/man3'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: done.
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/ja/man8'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /usr/share/man/pl...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /var/cache/man/pl...
+Jan 15 23:14:15 localhost mandb[241]: Processing manual pages under /usr/share/man/ja...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/ja/man5'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/ja/man1'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/ja/man1/newgrp.1: No such file or directory
+Jan 15 23:14:15 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/ja/man1/sg.1.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:15 localhost mandb[241]: done.
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/pl.ISO8859-2/man1'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /usr/share/man/ja...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /var/cache/man/ja...
+Jan 15 23:14:15 localhost mandb[241]: Processing manual pages under /usr/share/man/pl.ISO8859-2...
+Jan 15 23:14:15 localhost mandb[241]: done.
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/sv/man8'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /usr/share/man/pl.ISO8859-2...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /var/cache/man/pl.ISO8859-2...
+Jan 15 23:14:15 localhost mandb[241]: Processing manual pages under /usr/share/man/sv...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/sv/man5'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/sv/man1'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/sv/man3'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: done.
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/de/man8'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /usr/share/man/sv...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /var/cache/man/sv...
+Jan 15 23:14:15 localhost mandb[241]: Processing manual pages under /usr/share/man/de...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/de/man5'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/de/man1'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/de/man3'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: done.
+Jan 15 23:14:15 localhost mandb[241]: Updating index cache for path `/usr/share/man/es/man8'. Wait...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /usr/share/man/de...
+Jan 15 23:14:15 localhost mandb[241]: Checking for stray cats under /var/cache/man/de...
+Jan 15 23:14:15 localhost mandb[241]: Processing manual pages under /usr/share/man/es...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/es/man5'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/es/man1'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: done.
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/pt_BR/man8'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /usr/share/man/es...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /var/cache/man/es...
+Jan 15 23:14:16 localhost mandb[241]: Processing manual pages under /usr/share/man/pt_BR...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/pt_BR/man5'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/pt_BR/man1'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: done.
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr.ISO8859-1/man8'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /usr/share/man/pt_BR...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /var/cache/man/pt_BR...
+Jan 15 23:14:16 localhost mandb[241]: Processing manual pages under /usr/share/man/fr.ISO8859-1...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr.ISO8859-1/man5'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr.ISO8859-1/man1'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/fr.ISO8859-1/man7'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: done.
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/zh_CN/man8'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /usr/share/man/fr.ISO8859-1...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /var/cache/man/fr.ISO8859-1...
+Jan 15 23:14:16 localhost mandb[241]: Processing manual pages under /usr/share/man/zh_CN...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/zh_CN/man5'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/zh_CN/man1'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/zh_CN/man3'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: done.
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/cs/man8'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /usr/share/man/zh_CN...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /var/cache/man/zh_CN...
+Jan 15 23:14:16 localhost mandb[241]: Processing manual pages under /usr/share/man/cs...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/cs/man5'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/cs/man1'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/cs/man7'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: done.
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/pt/man1'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /usr/share/man/cs...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /var/cache/man/cs...
+Jan 15 23:14:16 localhost mandb[241]: Processing manual pages under /usr/share/man/pt...
+Jan 15 23:14:16 localhost mandb[241]: done.
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/it.ISO8859-1/man1'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /usr/share/man/pt...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /var/cache/man/pt...
+Jan 15 23:14:16 localhost mandb[241]: Processing manual pages under /usr/share/man/it.ISO8859-1...
+Jan 15 23:14:16 localhost mandb[241]: done.
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/ru.KOI8-R/man1'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /usr/share/man/it.ISO8859-1...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /var/cache/man/it.ISO8859-1...
+Jan 15 23:14:16 localhost mandb[241]: Processing manual pages under /usr/share/man/ru.KOI8-R...
+Jan 15 23:14:16 localhost mandb[241]: done.
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/ko/man5'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /usr/share/man/ru.KOI8-R...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /var/cache/man/ru.KOI8-R...
+Jan 15 23:14:16 localhost mandb[241]: Processing manual pages under /usr/share/man/ko...
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/ko/man1'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: done.
+Jan 15 23:14:16 localhost mandb[241]: Updating index cache for path `/usr/share/man/hu/man8'. Wait...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /usr/share/man/ko...
+Jan 15 23:14:16 localhost mandb[241]: Checking for stray cats under /var/cache/man/ko...
+Jan 15 23:14:16 localhost mandb[241]: Processing manual pages under /usr/share/man/hu...
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/hu/man5'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/hu/man1'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: /usr/bin/mandb: can't open /usr/share/man/hu/man1/newgrp.1: No such file or directory
+Jan 15 23:14:17 localhost mandb[241]: /usr/bin/mandb: warning: /usr/share/man/hu/man1/sg.1.gz: bad symlink or ROFF `.so' request
+Jan 15 23:14:17 localhost mandb[241]: done.
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/ru/man8'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /usr/share/man/hu...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /var/cache/man/hu...
+Jan 15 23:14:17 localhost mandb[241]: Processing manual pages under /usr/share/man/ru...
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/ru/man5'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/ru/man1'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/ru/man3'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: done.
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/da/man8'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /usr/share/man/ru...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /var/cache/man/ru...
+Jan 15 23:14:17 localhost mandb[241]: Processing manual pages under /usr/share/man/da...
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/da/man5'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/da/man1'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: done.
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/id/man8'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /usr/share/man/da...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /var/cache/man/da...
+Jan 15 23:14:17 localhost mandb[241]: Processing manual pages under /usr/share/man/id...
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/id/man5'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/id/man1'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: done.
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/ru.UTF-8/man1'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /usr/share/man/id...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /var/cache/man/id...
+Jan 15 23:14:17 localhost mandb[241]: Processing manual pages under /usr/share/man/ru.UTF-8...
+Jan 15 23:14:17 localhost mandb[241]: done.
+Jan 15 23:14:17 localhost mandb[241]: Updating index cache for path `/usr/share/man/pl.UTF-8/man1'. Wait...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /usr/share/man/ru.UTF-8...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /var/cache/man/ru.UTF-8...
+Jan 15 23:14:17 localhost mandb[241]: Processing manual pages under /usr/share/man/pl.UTF-8...
+Jan 15 23:14:17 localhost mandb[241]: done.
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /usr/share/man/pl.UTF-8...
+Jan 15 23:14:17 localhost mandb[241]: Checking for stray cats under /var/cache/man/pl.UTF-8...
+Jan 15 23:14:17 localhost mandb[241]: Processing manual pages under /usr/local/man...
+Jan 15 23:14:17 localhost mandb[241]: 84 man subdirectories contained newer manual pages.
+Jan 15 23:14:17 localhost mandb[241]: 16598 manual pages were added.
+Jan 15 23:14:17 localhost mandb[241]: 0 stray cats were added.
+Jan 15 23:14:17 localhost mandb[241]: 0 old database entries were purged.
+Jan 15 23:14:17 localhost systemd[1]: Started Update man-db cache.
+-- Subject: Unit man-db.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit man-db.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 15 23:15:05 localhost systemd[1]: [0;1;39msys-subsystem-net-devices-eth0.device: Job sys-subsystem-net-devices-eth0.device/start timed out.[0m
+Jan 15 23:15:05 localhost systemd[1]: [0;1;31mTimed out waiting for device sys-subsystem-net-devices-eth0.device.[0m
+-- Subject: Unit sys-subsystem-net-devices-eth0.device has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit sys-subsystem-net-devices-eth0.device has failed.
+-- 
+-- The result is timeout.
+Jan 15 23:15:05 localhost systemd[1]: [0;1;39mDependency failed for dhcpcd on eth0.[0m
+-- Subject: Unit dhcpcd@eth0.service has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit dhcpcd@eth0.service has failed.
+-- 
+-- The result is dependency.
+Jan 15 23:15:05 localhost systemd[1]: [0;1;39mdhcpcd@eth0.service: Job dhcpcd@eth0.service/start failed with result 'dependency'.[0m
+Jan 15 23:15:05 localhost systemd[1]: [0;1;39msys-subsystem-net-devices-eth0.device: Job sys-subsystem-net-devices-eth0.device/start failed with result 'timeout'.[0m
+Jan 15 23:15:05 localhost systemd[1]: Reached target Network.
+-- Subject: Unit network.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit network.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 15 23:15:05 localhost systemd[1]: Starting Permit User Sessions...
+-- Subject: Unit systemd-user-sessions.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-user-sessions.service has begun starting up.
+Jan 15 23:15:05 localhost systemd[1]: Started Permit User Sessions.
+-- Subject: Unit systemd-user-sessions.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-user-sessions.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 15 23:15:05 localhost systemd[1]: Started Getty on tty1.
+-- Subject: Unit getty@tty1.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit getty@tty1.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 15 23:15:05 localhost systemd[1]: Reached target Login Prompts.
+-- Subject: Unit getty.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit getty.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 15 23:15:05 localhost systemd[1]: Reached target Multi-User System.
+-- Subject: Unit multi-user.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit multi-user.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 15 23:15:05 localhost systemd[1]: Reached target Graphical Interface.
+-- Subject: Unit graphical.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit graphical.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 15 23:15:05 localhost systemd[1]: Startup finished in 4.753s (kernel) + 1min 31.626s (userspace) = 1min 36.379s.
+-- Subject: System start-up is now complete
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- All system services necessary queued for starting at boot have been
+-- successfully started. Note that this does not mean that the machine is
+-- now idle as services might still be busy with completing start-up.
+-- 
+-- Kernel start-up required 4753039 microseconds.
+-- 
+-- Initial RAM disk start-up required INITRD_USEC microseconds.
+-- 
+-- Userspace start-up required 91626740 microseconds.
+Jan 15 23:29:12 localhost systemd[1]: Starting Cleanup of Temporary Directories...
+-- Subject: Unit systemd-tmpfiles-clean.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-tmpfiles-clean.service has begun starting up.
+Jan 15 23:29:13 localhost systemd[1]: Started Cleanup of Temporary Directories.
+-- Subject: Unit systemd-tmpfiles-clean.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-tmpfiles-clean.service has finished starting up.
+-- 
+-- The start-up result is done.
+[0;1;39m-- Reboot --[0m
+Jan 16 21:14:58 localhost systemd-journald[147]: Time spent on flushing to /var is 551us for 0 entries.
+Jan 16 21:14:59 localhost kernel: [0;1;39mLinux version 4.8.13-1-ARCH (builduser@tobias) (gcc version 6.2.1 20160830 (GCC) ) #1 SMP PREEMPT Fri Dec 9 07:24:34 CET 2016[0m
+Jan 16 21:14:59 localhost kernel: Command line: BOOT_IMAGE=/boot/vmlinuz-linux root=UUID=12d48b29-5c16-4cbd-b267-3ba9cbed4ad2 rw quiet
+Jan 16 21:14:59 localhost kernel: x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+Jan 16 21:14:59 localhost kernel: x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+Jan 16 21:14:59 localhost kernel: x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+Jan 16 21:14:59 localhost kernel: x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+Jan 16 21:14:59 localhost kernel: x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+Jan 16 21:14:59 localhost kernel: x86/fpu: Using 'eager' FPU context switches.
+Jan 16 21:14:59 localhost kernel: e820: BIOS-provided physical RAM map:
+Jan 16 21:14:59 localhost kernel: BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+Jan 16 21:14:59 localhost kernel: BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+Jan 16 21:14:59 localhost kernel: BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+Jan 16 21:14:59 localhost kernel: BIOS-e820: [mem 0x0000000000100000-0x00000000dffeffff] usable
+Jan 16 21:14:59 localhost kernel: BIOS-e820: [mem 0x00000000dfff0000-0x00000000dfffffff] ACPI data
+Jan 16 21:14:59 localhost kernel: BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+Jan 16 21:14:59 localhost kernel: BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+Jan 16 21:14:59 localhost kernel: BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+Jan 16 21:14:59 localhost kernel: BIOS-e820: [mem 0x0000000100000000-0x000000011fffffff] usable
+Jan 16 21:14:59 localhost kernel: NX (Execute Disable) protection: active
+Jan 16 21:14:59 localhost kernel: SMBIOS 2.5 present.
+Jan 16 21:14:59 localhost kernel: DMI: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+Jan 16 21:14:59 localhost kernel: Hypervisor detected: KVM
+Jan 16 21:14:59 localhost kernel: e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Jan 16 21:14:59 localhost kernel: e820: remove [mem 0x000a0000-0x000fffff] usable
+Jan 16 21:14:59 localhost kernel: e820: last_pfn = 0x120000 max_arch_pfn = 0x400000000
+Jan 16 21:14:59 localhost kernel: MTRR default type: uncachable
+Jan 16 21:14:59 localhost kernel: MTRR variable ranges disabled:
+Jan 16 21:14:59 localhost kernel: MTRR: Disabled
+Jan 16 21:14:59 localhost kernel: x86/PAT: MTRRs disabled, skipping PAT initialization too.
+Jan 16 21:14:59 localhost kernel: x86/PAT: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC  
+Jan 16 21:14:59 localhost kernel: CPU MTRRs all blank - virtualized system.
+Jan 16 21:14:59 localhost kernel: e820: last_pfn = 0xdfff0 max_arch_pfn = 0x400000000
+Jan 16 21:14:59 localhost kernel: found SMP MP-table at [mem 0x0009fff0-0x0009ffff] mapped at [ffff88000009fff0]
+Jan 16 21:14:59 localhost kernel: Scanning 1 areas for low memory corruption
+Jan 16 21:14:59 localhost kernel: Base memory trampoline at [ffff880000099000] 99000 size 24576
+Jan 16 21:14:59 localhost kernel: BRK [0x01d4d000, 0x01d4dfff] PGTABLE
+Jan 16 21:14:59 localhost kernel: BRK [0x01d4e000, 0x01d4efff] PGTABLE
+Jan 16 21:14:59 localhost kernel: BRK [0x01d4f000, 0x01d4ffff] PGTABLE
+Jan 16 21:14:59 localhost kernel: BRK [0x01d50000, 0x01d50fff] PGTABLE
+Jan 16 21:14:59 localhost kernel: RAMDISK: [mem 0x374eb000-0x37a6cfff]
+Jan 16 21:14:59 localhost kernel: ACPI: Early table checksum verification disabled
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: XSDT 0x00000000DFFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: FACP 0x00000000DFFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: DSDT 0x00000000DFFF0470 00210F (v01 VBOX   VBOXBIOS 00000002 INTL 20100528)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: FACS 0x00000000DFFF0200 000040[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: FACS 0x00000000DFFF0200 000040[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: APIC 0x00000000DFFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: SSDT 0x00000000DFFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)[0m
+Jan 16 21:14:59 localhost kernel: ACPI: Local APIC address 0xfee00000
+Jan 16 21:14:59 localhost kernel: No NUMA configuration found
+Jan 16 21:14:59 localhost kernel: Faking a node at [mem 0x0000000000000000-0x000000011fffffff]
+Jan 16 21:14:59 localhost kernel: NODE_DATA(0) allocated [mem 0x11fff7000-0x11fffbfff]
+Jan 16 21:14:59 localhost kernel: kvm-clock: Using msrs 4b564d01 and 4b564d00
+Jan 16 21:14:59 localhost kernel: kvm-clock: cpu 0, msr 1:1fff5001, primary cpu clock
+Jan 16 21:14:59 localhost kernel: kvm-clock: using sched offset of 4758194573 cycles
+Jan 16 21:14:59 localhost kernel: clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+Jan 16 21:14:59 localhost kernel: Zone ranges:
+Jan 16 21:14:59 localhost kernel:   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Jan 16 21:14:59 localhost kernel:   DMA32    [mem 0x0000000001000000-0x00000000ffffffff]
+Jan 16 21:14:59 localhost kernel:   Normal   [mem 0x0000000100000000-0x000000011fffffff]
+Jan 16 21:14:59 localhost kernel:   Device   empty
+Jan 16 21:14:59 localhost kernel: Movable zone start for each node
+Jan 16 21:14:59 localhost kernel: Early memory node ranges
+Jan 16 21:14:59 localhost kernel:   node   0: [mem 0x0000000000001000-0x000000000009efff]
+Jan 16 21:14:59 localhost kernel:   node   0: [mem 0x0000000000100000-0x00000000dffeffff]
+Jan 16 21:14:59 localhost kernel:   node   0: [mem 0x0000000100000000-0x000000011fffffff]
+Jan 16 21:14:59 localhost kernel: Initmem setup node 0 [mem 0x0000000000001000-0x000000011fffffff]
+Jan 16 21:14:59 localhost kernel: On node 0 totalpages: 1048462
+Jan 16 21:14:59 localhost kernel:   DMA zone: 64 pages used for memmap
+Jan 16 21:14:59 localhost kernel:   DMA zone: 21 pages reserved
+Jan 16 21:14:59 localhost kernel:   DMA zone: 3998 pages, LIFO batch:0
+Jan 16 21:14:59 localhost kernel:   DMA32 zone: 14272 pages used for memmap
+Jan 16 21:14:59 localhost kernel:   DMA32 zone: 913392 pages, LIFO batch:31
+Jan 16 21:14:59 localhost kernel:   Normal zone: 2048 pages used for memmap
+Jan 16 21:14:59 localhost kernel:   Normal zone: 131072 pages, LIFO batch:31
+Jan 16 21:14:59 localhost kernel: ACPI: PM-Timer IO Port: 0x4008
+Jan 16 21:14:59 localhost kernel: ACPI: Local APIC address 0xfee00000
+Jan 16 21:14:59 localhost kernel: IOAPIC[0]: apic_id 1, version 32, address 0xfec00000, GSI 0-23
+Jan 16 21:14:59 localhost kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Jan 16 21:14:59 localhost kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Jan 16 21:14:59 localhost kernel: ACPI: IRQ0 used by override.
+Jan 16 21:14:59 localhost kernel: ACPI: IRQ9 used by override.
+Jan 16 21:14:59 localhost kernel: Using ACPI (MADT) for SMP configuration information
+Jan 16 21:14:59 localhost kernel: smpboot: Allowing 1 CPUs, 0 hotplug CPUs
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0x000a0000-0x000effff]
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0xdfff0000-0xdfffffff]
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0xe0000000-0xfebfffff]
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0xfec00000-0xfec00fff]
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0xfec01000-0xfedfffff]
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0xfee00000-0xfee00fff]
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0xfee01000-0xfffbffff]
+Jan 16 21:14:59 localhost kernel: PM: Registered nosave memory: [mem 0xfffc0000-0xffffffff]
+Jan 16 21:14:59 localhost kernel: e820: [mem 0xe0000000-0xfebfffff] available for PCI devices
+Jan 16 21:14:59 localhost kernel: Booting paravirtualized kernel on KVM
+Jan 16 21:14:59 localhost kernel: clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 6370452778343963 ns
+Jan 16 21:14:59 localhost kernel: setup_percpu: NR_CPUS:128 nr_cpumask_bits:128 nr_cpu_ids:1 nr_node_ids:1
+Jan 16 21:14:59 localhost kernel: percpu: Embedded 35 pages/cpu @ffff88011fc00000 s103128 r8192 d32040 u2097152
+Jan 16 21:14:59 localhost kernel: pcpu-alloc: s103128 r8192 d32040 u2097152 alloc=1*2097152
+Jan 16 21:14:59 localhost kernel: pcpu-alloc: [0] 0 
+Jan 16 21:14:59 localhost kernel: Built 1 zonelists in Node order, mobility grouping on.  Total pages: 1032057
+Jan 16 21:14:59 localhost kernel: Policy zone: Normal
+Jan 16 21:14:59 localhost kernel: [0;1;39mKernel command line: BOOT_IMAGE=/boot/vmlinuz-linux root=UUID=12d48b29-5c16-4cbd-b267-3ba9cbed4ad2 rw quiet[0m
+Jan 16 21:14:59 localhost kernel: PID hash table entries: 4096 (order: 3, 32768 bytes)
+Jan 16 21:14:59 localhost kernel: Calgary: detecting Calgary via BIOS EBDA area
+Jan 16 21:14:59 localhost kernel: Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+Jan 16 21:14:59 localhost kernel: Memory: 4042460K/4193848K available (6131K kernel code, 1051K rwdata, 1912K rodata, 1256K init, 1036K bss, 151388K reserved, 0K cma-reserved)
+Jan 16 21:14:59 localhost kernel: SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+Jan 16 21:14:59 localhost kernel: Preemptible hierarchical RCU implementation.
+Jan 16 21:14:59 localhost kernel:         Build-time adjustment of leaf fanout to 64.
+Jan 16 21:14:59 localhost kernel:         RCU restricting CPUs from NR_CPUS=128 to nr_cpu_ids=1.
+Jan 16 21:14:59 localhost kernel: RCU: Adjusting geometry for rcu_fanout_leaf=64, nr_cpu_ids=1
+Jan 16 21:14:59 localhost kernel: NR_IRQS:8448 nr_irqs:256 16
+Jan 16 21:14:59 localhost kernel: Console: colour dummy device 80x25
+Jan 16 21:14:59 localhost kernel: console [tty0] enabled
+Jan 16 21:14:59 localhost kernel: tsc: Detected 3192.008 MHz processor
+Jan 16 21:14:59 localhost kernel: Calibrating delay loop (skipped) preset value.. 6386.01 BogoMIPS (lpj=10640026)
+Jan 16 21:14:59 localhost kernel: pid_max: default: 32768 minimum: 301
+Jan 16 21:14:59 localhost kernel: ACPI: Core revision 20160422
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: 2 ACPI AML tables successfully acquired and loaded[0m
+Jan 16 21:14:59 localhost kernel: 
+Jan 16 21:14:59 localhost kernel: Security Framework initialized
+Jan 16 21:14:59 localhost kernel: Yama: becoming mindful.
+Jan 16 21:14:59 localhost kernel: Dentry cache hash table entries: 524288 (order: 10, 4194304 bytes)
+Jan 16 21:14:59 localhost kernel: Inode-cache hash table entries: 262144 (order: 9, 2097152 bytes)
+Jan 16 21:14:59 localhost kernel: Mount-cache hash table entries: 8192 (order: 4, 65536 bytes)
+Jan 16 21:14:59 localhost kernel: Mountpoint-cache hash table entries: 8192 (order: 4, 65536 bytes)
+Jan 16 21:14:59 localhost kernel: CPU: Physical Processor ID: 0
+Jan 16 21:14:59 localhost kernel: mce: CPU supports 0 MCE banks
+Jan 16 21:14:59 localhost kernel: process: using mwait in idle threads
+Jan 16 21:14:59 localhost kernel: Last level iTLB entries: 4KB 128, 2MB 8, 4MB 8
+Jan 16 21:14:59 localhost kernel: Last level dTLB entries: 4KB 64, 2MB 0, 4MB 0, 1GB 4
+Jan 16 21:14:59 localhost kernel: Freeing SMP alternatives memory: 24K (ffffffff81c42000 - ffffffff81c48000)
+Jan 16 21:14:59 localhost kernel: ftrace: allocating 24335 entries in 96 pages
+Jan 16 21:14:59 localhost kernel: smpboot: APIC(0) Converting physical 0 to logical package 0
+Jan 16 21:14:59 localhost kernel: smpboot: Max logical packages: 1
+Jan 16 21:14:59 localhost kernel: x2apic enabled
+Jan 16 21:14:59 localhost kernel: Switched APIC routing to physical x2apic.
+Jan 16 21:14:59 localhost kernel: ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Jan 16 21:14:59 localhost kernel: smpboot: CPU0: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz (family: 0x6, model: 0x5e, stepping: 0x3)
+Jan 16 21:14:59 localhost kernel: Performance Events: unsupported p6 CPU model 94 no PMU driver, software events only.
+Jan 16 21:14:59 localhost kernel: x86: Booted up 1 node, 1 CPUs
+Jan 16 21:14:59 localhost kernel: smpboot: Total of 1 processors activated (6386.01 BogoMIPS)
+Jan 16 21:14:59 localhost kernel: devtmpfs: initialized
+Jan 16 21:14:59 localhost kernel: x86/mm: Memory block size: 128MB
+Jan 16 21:14:59 localhost kernel: clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 6370867519511994 ns
+Jan 16 21:14:59 localhost kernel: pinctrl core: initialized pinctrl subsystem
+Jan 16 21:14:59 localhost kernel: RTC time: 14:14:50, date: 01/16/17
+Jan 16 21:14:59 localhost kernel: NET: Registered protocol family 16
+Jan 16 21:14:59 localhost kernel: cpuidle: using governor ladder
+Jan 16 21:14:59 localhost kernel: cpuidle: using governor menu
+Jan 16 21:14:59 localhost kernel: ACPI: bus type PCI registered
+Jan 16 21:14:59 localhost kernel: acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Jan 16 21:14:59 localhost kernel: PCI: Using configuration type 1 for base access
+Jan 16 21:14:59 localhost kernel: HugeTLB registered 2 MB page size, pre-allocated 0 pages
+Jan 16 21:14:59 localhost kernel: ACPI: Added _OSI(Module Device)
+Jan 16 21:14:59 localhost kernel: ACPI: Added _OSI(Processor Device)
+Jan 16 21:14:59 localhost kernel: ACPI: Added _OSI(3.0 _SCP Extensions)
+Jan 16 21:14:59 localhost kernel: ACPI: Added _OSI(Processor Aggregator Device)
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: Executed 1 blocks of module-level executable AML code[0m
+Jan 16 21:14:59 localhost kernel: ACPI: Interpreter enabled
+Jan 16 21:14:59 localhost kernel: ACPI: (supports S0 S5)
+Jan 16 21:14:59 localhost kernel: ACPI: Using IOAPIC for interrupt routing
+Jan 16 21:14:59 localhost kernel: PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Jan 16 21:14:59 localhost kernel: ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Jan 16 21:14:59 localhost kernel: acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+Jan 16 21:14:59 localhost kernel: acpi PNP0A03:00: _OSC failed (AE_NOT_FOUND); disabling ASPM
+Jan 16 21:14:59 localhost kernel: [0;1;39macpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.[0m
+Jan 16 21:14:59 localhost kernel: PCI host bridge to bus 0000:00
+Jan 16 21:14:59 localhost kernel: pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+Jan 16 21:14:59 localhost kernel: pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+Jan 16 21:14:59 localhost kernel: pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+Jan 16 21:14:59 localhost kernel: pci_bus 0000:00: root bus resource [mem 0xe0000000-0xffdfffff window]
+Jan 16 21:14:59 localhost kernel: pci_bus 0000:00: root bus resource [bus 00-ff]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+Jan 16 21:14:59 localhost kernel: pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+Jan 16 21:14:59 localhost kernel: pci 0000:00:01.1: [8086:7111] type 00 class 0x01018a
+Jan 16 21:14:59 localhost kernel: pci 0000:00:01.1: reg 0x20: [io  0xd000-0xd00f]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:02.0: [80ee:beef] type 00 class 0x030000
+Jan 16 21:14:59 localhost kernel: pci 0000:00:02.0: reg 0x10: [mem 0xe0000000-0xe0ffffff pref]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:03.0: [8086:100e] type 00 class 0x020000
+Jan 16 21:14:59 localhost kernel: pci 0000:00:03.0: reg 0x10: [mem 0xf0000000-0xf001ffff]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:03.0: reg 0x18: [io  0xd010-0xd017]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:04.0: [80ee:cafe] type 00 class 0x088000
+Jan 16 21:14:59 localhost kernel: pci 0000:00:04.0: reg 0x10: [io  0xd020-0xd03f]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:04.0: reg 0x14: [mem 0xf0400000-0xf07fffff]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:04.0: reg 0x18: [mem 0xf0800000-0xf0803fff pref]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:05.0: [8086:2415] type 00 class 0x040100
+Jan 16 21:14:59 localhost kernel: pci 0000:00:05.0: reg 0x10: [io  0xd100-0xd1ff]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:05.0: reg 0x14: [io  0xd200-0xd23f]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:06.0: [106b:003f] type 00 class 0x0c0310
+Jan 16 21:14:59 localhost kernel: pci 0000:00:06.0: reg 0x10: [mem 0xf0804000-0xf0804fff]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:07.0: [8086:7113] type 00 class 0x068000
+Jan 16 21:14:59 localhost kernel: pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+Jan 16 21:14:59 localhost kernel: pci 0000:00:07.0: quirk: [io  0x4100-0x410f] claimed by PIIX4 SMB
+Jan 16 21:14:59 localhost kernel: pci 0000:00:0d.0: [8086:2829] type 00 class 0x010601
+Jan 16 21:14:59 localhost kernel: pci 0000:00:0d.0: reg 0x10: [io  0xd240-0xd247]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:0d.0: reg 0x18: [io  0xd250-0xd257]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:0d.0: reg 0x20: [io  0xd260-0xd26f]
+Jan 16 21:14:59 localhost kernel: pci 0000:00:0d.0: reg 0x24: [mem 0xf0806000-0xf0807fff]
+Jan 16 21:14:59 localhost kernel: ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+Jan 16 21:14:59 localhost kernel: ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 10 *11)
+Jan 16 21:14:59 localhost kernel: ACPI: PCI Interrupt Link [LNKC] (IRQs 5 9 *10 11)
+Jan 16 21:14:59 localhost kernel: ACPI: PCI Interrupt Link [LNKD] (IRQs 5 *9 10 11)
+Jan 16 21:14:59 localhost kernel: [0;1;39mACPI: Enabled 2 GPEs in block 00 to 07[0m
+Jan 16 21:14:59 localhost kernel: vgaarb: setting as boot device: PCI:0000:00:02.0
+Jan 16 21:14:59 localhost kernel: vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+Jan 16 21:14:59 localhost kernel: vgaarb: loaded
+Jan 16 21:14:59 localhost kernel: vgaarb: bridge control possible 0000:00:02.0
+Jan 16 21:14:59 localhost kernel: PCI: Using ACPI for IRQ routing
+Jan 16 21:14:59 localhost kernel: PCI: pci_cache_line_size set to 64 bytes
+Jan 16 21:14:59 localhost kernel: e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+Jan 16 21:14:59 localhost kernel: e820: reserve RAM buffer [mem 0xdfff0000-0xdfffffff]
+Jan 16 21:14:59 localhost kernel: NetLabel: Initializing
+Jan 16 21:14:59 localhost kernel: NetLabel:  domain hash size = 128
+Jan 16 21:14:59 localhost kernel: NetLabel:  protocols = UNLABELED CIPSOv4
+Jan 16 21:14:59 localhost kernel: NetLabel:  unlabeled traffic allowed by default
+Jan 16 21:14:59 localhost kernel: clocksource: Switched to clocksource kvm-clock
+Jan 16 21:14:59 localhost kernel: [0;1;39mVFS: Disk quotas dquot_6.6.0[0m
+Jan 16 21:14:59 localhost kernel: VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Jan 16 21:14:59 localhost kernel: pnp: PnP ACPI init
+Jan 16 21:14:59 localhost kernel: pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+Jan 16 21:14:59 localhost kernel: pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+Jan 16 21:14:59 localhost kernel: pnp: PnP ACPI: found 2 devices
+Jan 16 21:14:59 localhost kernel: clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+Jan 16 21:14:59 localhost kernel: pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+Jan 16 21:14:59 localhost kernel: pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+Jan 16 21:14:59 localhost kernel: pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+Jan 16 21:14:59 localhost kernel: pci_bus 0000:00: resource 7 [mem 0xe0000000-0xffdfffff window]
+Jan 16 21:14:59 localhost kernel: NET: Registered protocol family 2
+Jan 16 21:14:59 localhost kernel: TCP established hash table entries: 32768 (order: 6, 262144 bytes)
+Jan 16 21:14:59 localhost kernel: TCP bind hash table entries: 32768 (order: 7, 524288 bytes)
+Jan 16 21:14:59 localhost kernel: TCP: Hash tables configured (established 32768 bind 32768)
+Jan 16 21:14:59 localhost kernel: UDP hash table entries: 2048 (order: 4, 65536 bytes)
+Jan 16 21:14:59 localhost kernel: UDP-Lite hash table entries: 2048 (order: 4, 65536 bytes)
+Jan 16 21:14:59 localhost kernel: NET: Registered protocol family 1
+Jan 16 21:14:59 localhost kernel: pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+Jan 16 21:14:59 localhost kernel: pci 0000:00:01.0: Activating ISA DMA hang workarounds
+Jan 16 21:14:59 localhost kernel: pci 0000:00:02.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+Jan 16 21:14:59 localhost kernel: PCI: CLS 0 bytes, default 64
+Jan 16 21:14:59 localhost kernel: Unpacking initramfs...
+Jan 16 21:14:59 localhost kernel: Freeing initrd memory: 5640K (ffff8800374eb000 - ffff880037a6d000)
+Jan 16 21:14:59 localhost kernel: PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+Jan 16 21:14:59 localhost kernel: software IO TLB [mem 0xdbff0000-0xdfff0000] (64MB) mapped at [ffff8800dbff0000-ffff8800dffeffff]
+Jan 16 21:14:59 localhost kernel: platform rtc_cmos: registered platform RTC device (no PNP device found)
+Jan 16 21:14:59 localhost kernel: Scanning for low memory corruption every 60 seconds
+Jan 16 21:14:59 localhost kernel: futex hash table entries: 256 (order: 2, 16384 bytes)
+Jan 16 21:14:59 localhost kernel: [0;1;39mInitialise system trusted keyrings[0m
+Jan 16 21:14:59 localhost kernel: workingset: timestamp_bits=40 max_order=20 bucket_order=0
+Jan 16 21:14:59 localhost kernel: zbud: loaded
+Jan 16 21:14:59 localhost kernel: [0;1;39mKey type asymmetric registered[0m
+Jan 16 21:14:59 localhost kernel: Block layer SCSI generic (bsg) driver version 0.4 loaded (major 249)
+Jan 16 21:14:59 localhost kernel: io scheduler noop registered
+Jan 16 21:14:59 localhost kernel: io scheduler deadline registered
+Jan 16 21:14:59 localhost kernel: io scheduler cfq registered (default)
+Jan 16 21:14:59 localhost kernel: pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Jan 16 21:14:59 localhost kernel: pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+Jan 16 21:14:59 localhost kernel: vesafb: mode is 640x480x32, linelength=2560, pages=0
+Jan 16 21:14:59 localhost kernel: vesafb: scrolling: redraw
+Jan 16 21:14:59 localhost kernel: vesafb: Truecolor: size=8:8:8:8, shift=24:16:8:0
+Jan 16 21:14:59 localhost kernel: vesafb: framebuffer at 0xe0000000, mapped to 0xffffc90000800000, using 1216k, total 1216k
+Jan 16 21:14:59 localhost kernel: Console: switching to colour frame buffer device 80x30
+Jan 16 21:14:59 localhost kernel: fb0: VESA VGA frame buffer device
+Jan 16 21:14:59 localhost kernel: GHES: HEST is not enabled!
+Jan 16 21:14:59 localhost kernel: Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+Jan 16 21:14:59 localhost kernel: Linux agpgart interface v0.103
+Jan 16 21:14:59 localhost kernel: rtc_cmos rtc_cmos: rtc core: registered rtc_cmos as rtc0
+Jan 16 21:14:59 localhost kernel: rtc_cmos rtc_cmos: alarms up to one day, 114 bytes nvram
+Jan 16 21:14:59 localhost kernel: ledtrig-cpu: registered to indicate activity on CPUs
+Jan 16 21:14:59 localhost kernel: NET: Registered protocol family 10
+Jan 16 21:14:59 localhost kernel: NET: Registered protocol family 17
+Jan 16 21:14:59 localhost kernel: microcode: sig=0x506e3, pf=0x2, revision=0x0
+Jan 16 21:14:59 localhost kernel: microcode: Microcode Update Driver: v2.01 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+Jan 16 21:14:59 localhost kernel: registered taskstats version 1
+Jan 16 21:14:59 localhost kernel: [0;1;39mLoading compiled-in X.509 certificates[0m
+Jan 16 21:14:59 localhost kernel: zswap: loaded using pool lzo/zbud
+Jan 16 21:14:59 localhost kernel:   Magic number: 1:822:232
+Jan 16 21:14:59 localhost kernel: rtc_cmos rtc_cmos: setting system clock to 2017-01-16 14:14:50 UTC (1484576090)
+Jan 16 21:14:59 localhost kernel: PM: Hibernation image not present or could not be loaded.
+Jan 16 21:14:59 localhost kernel: Freeing unused kernel memory: 1256K (ffffffff81b08000 - ffffffff81c42000)
+Jan 16 21:14:59 localhost kernel: Write protecting the kernel read-only data: 10240k
+Jan 16 21:14:59 localhost kernel: Freeing unused kernel memory: 2044K (ffff880001601000 - ffff880001800000)
+Jan 16 21:14:59 localhost kernel: Freeing unused kernel memory: 136K (ffff8800019de000 - ffff880001a00000)
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: systemd-tmpfile: uninitialized urandom read (16 bytes read)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: udevadm: uninitialized urandom read (16 bytes read)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: udevadm: uninitialized urandom read (16 bytes read)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: systemd-udevd: uninitialized urandom read (16 bytes read)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: systemd-udevd: uninitialized urandom read (16 bytes read)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: systemd-udevd: uninitialized urandom read (16 bytes read)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: systemd-udevd: uninitialized urandom read (16 bytes read)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: systemd-udevd: uninitialized urandom read (16 bytes read)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: systemd-udevd: uninitialized urandom read (16 bytes read)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: systemd-udevd: uninitialized urandom read (16 bytes read)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mSCSI subsystem initialized[0m
+Jan 16 21:14:59 localhost kernel: i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+Jan 16 21:14:59 localhost kernel: serio: i8042 KBD port at 0x60,0x64 irq 1
+Jan 16 21:14:59 localhost kernel: serio: i8042 AUX port at 0x60,0x64 irq 12
+Jan 16 21:14:59 localhost kernel: ACPI: bus type USB registered
+Jan 16 21:14:59 localhost kernel: usbcore: registered new interface driver usbfs
+Jan 16 21:14:59 localhost kernel: usbcore: registered new interface driver hub
+Jan 16 21:14:59 localhost kernel: usbcore: registered new device driver usb
+Jan 16 21:14:59 localhost kernel: ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Jan 16 21:14:59 localhost kernel: ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Jan 16 21:14:59 localhost kernel: [0;1;39mWarning! ehci_hcd should always be loaded before uhci_hcd and ohci_hcd, not after[0m
+Jan 16 21:14:59 localhost kernel: ehci-pci: EHCI PCI platform driver
+Jan 16 21:14:59 localhost kernel: ohci-pci: OHCI PCI platform driver
+Jan 16 21:14:59 localhost kernel: ohci-pci 0000:00:06.0: OHCI PCI host controller
+Jan 16 21:14:59 localhost kernel: ohci-pci 0000:00:06.0: new USB bus registered, assigned bus number 1
+Jan 16 21:14:59 localhost kernel: ohci-pci 0000:00:06.0: irq 22, io mem 0xf0804000
+Jan 16 21:14:59 localhost kernel: libata version 3.00 loaded.
+Jan 16 21:14:59 localhost kernel: input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input0
+Jan 16 21:14:59 localhost kernel: hub 1-0:1.0: USB hub found
+Jan 16 21:14:59 localhost kernel: hub 1-0:1.0: 12 ports detected
+Jan 16 21:14:59 localhost kernel: ahci 0000:00:0d.0: version 3.0
+Jan 16 21:14:59 localhost kernel: ahci 0000:00:0d.0: SSS flag set, parallel bus scan disabled
+Jan 16 21:14:59 localhost kernel: ahci 0000:00:0d.0: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+Jan 16 21:14:59 localhost kernel: ahci 0000:00:0d.0: flags: 64bit ncq stag only ccc 
+Jan 16 21:14:59 localhost kernel: scsi host0: ahci
+Jan 16 21:14:59 localhost kernel: ata1: SATA max UDMA/133 abar m8192@0xf0806000 port 0xf0806100 irq 21
+Jan 16 21:14:59 localhost kernel: ata_piix 0000:00:01.1: version 2.13
+Jan 16 21:14:59 localhost kernel: scsi host1: ata_piix
+Jan 16 21:14:59 localhost kernel: scsi host2: ata_piix
+Jan 16 21:14:59 localhost kernel: ata2: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+Jan 16 21:14:59 localhost kernel: ata3: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+Jan 16 21:14:59 localhost kernel: ata3.00: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+Jan 16 21:14:59 localhost kernel: ata3.00: configured for UDMA/33
+Jan 16 21:14:59 localhost kernel: ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Jan 16 21:14:59 localhost kernel: ata1.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+Jan 16 21:14:59 localhost kernel: ata1.00: 167772160 sectors, multi 128: LBA48 NCQ (depth 31/32)
+Jan 16 21:14:59 localhost kernel: ata1.00: configured for UDMA/133
+Jan 16 21:14:59 localhost kernel: [0;1;39mscsi 0:0:0:0: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mscsi 2:0:0:0: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39msd 0:0:0:0: [sda] 167772160 512-byte logical blocks: (85.9 GB/80.0 GiB)[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39msd 0:0:0:0: [sda] Write Protect is off[0m
+Jan 16 21:14:59 localhost kernel: sd 0:0:0:0: [sda] Mode Sense: 00 3a 00 00
+Jan 16 21:14:59 localhost kernel: [0;1;39msd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA[0m
+Jan 16 21:14:59 localhost kernel: sr 2:0:0:0: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+Jan 16 21:14:59 localhost kernel: cdrom: Uniform CD-ROM driver Revision: 3.20
+Jan 16 21:14:59 localhost kernel: sr 2:0:0:0: Attached scsi CD-ROM sr0
+Jan 16 21:14:59 localhost kernel:  sda: sda1
+Jan 16 21:14:59 localhost kernel: [0;1;39msd 0:0:0:0: [sda] Attached SCSI disk[0m
+Jan 16 21:14:59 localhost kernel: usb 1-1: new full-speed USB device number 2 using ohci-pci
+Jan 16 21:14:59 localhost kernel: hidraw: raw HID events driver (C) Jiri Kosina
+Jan 16 21:14:59 localhost kernel: usbcore: registered new interface driver usbhid
+Jan 16 21:14:59 localhost kernel: usbhid: USB HID core driver
+Jan 16 21:14:59 localhost kernel: input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0001/input/input2
+Jan 16 21:14:59 localhost kernel: hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Jan 16 21:14:59 localhost kernel: tsc: Refined TSC clocksource calibration: 3191.491 MHz
+Jan 16 21:14:59 localhost kernel: clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x2e00e40a6a6, max_idle_ns: 440795266634 ns
+Jan 16 21:14:59 localhost kernel: floppy0: no floppy controllers found
+Jan 16 21:14:59 localhost kernel: work still pending
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: fast init done[0m
+Jan 16 21:14:59 localhost kernel: EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+Jan 16 21:14:59 localhost kernel: [0;1;39mrandom: crng init done[0m
+Jan 16 21:14:59 localhost kernel: ip_tables: (C) 2000-2006 Netfilter Core Team
+Jan 16 21:14:59 localhost systemd[1]: systemd 232 running in system mode. (+PAM -AUDIT -SELINUX -IMA -APPARMOR +SMACK -SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +SECCOMP +BLKID +ELFUTILS +KMOD +IDN)
+Jan 16 21:14:59 localhost systemd[1]: Detected virtualization oracle.
+Jan 16 21:14:59 localhost systemd[1]: Detected architecture x86-64.
+Jan 16 21:14:59 localhost systemd[1]: No hostname configured.
+Jan 16 21:14:59 localhost systemd[1]: Set hostname to <localhost>.
+Jan 16 21:14:59 localhost systemd[1]: Listening on /dev/initctl Compatibility Named Pipe.
+Jan 16 21:14:59 localhost systemd[1]: Listening on udev Kernel Socket.
+Jan 16 21:14:59 localhost systemd[1]: Listening on Journal Socket (/dev/log).
+Jan 16 21:14:59 localhost systemd[1]: Reached target Swap.
+Jan 16 21:14:59 localhost systemd[1]: Listening on udev Control Socket.
+Jan 16 21:14:59 localhost kernel: EXT4-fs (sda1): re-mounted. Opts: data=ordered
+Jan 16 21:14:59 localhost kernel: [0;1;39mvboxguest: loading out-of-tree module taints kernel.[0m
+Jan 16 21:14:59 localhost kernel: [0;1;39mvgdrvHeartbeatInit: Setting up heartbeat to trigger every 2000 milliseconds[0m
+Jan 16 21:14:59 localhost kernel: input: Unspecified device as /devices/pci0000:00/0000:00:04.0/input/input3
+Jan 16 21:14:59 localhost kernel: [0;1;39mvboxguest: misc device minor 58, IRQ 20, I/O port d020, MMIO at 00000000f0400000 (size 0x400000)[0m
+Jan 16 21:14:59 localhost kernel: vboxguest: Successfully loaded version 5.1.12 (interface 0x00010004)
+Jan 16 21:14:59 localhost kernel: vboxsf: Successfully loaded version 5.1.12 (interface 0x00010004)
+Jan 16 21:14:59 localhost kernel: [drm] Initialized drm 1.1.0 20060810
+Jan 16 21:14:59 localhost kernel: [drm] VRAM 01000000
+Jan 16 21:14:59 localhost kernel: [TTM] Zone  kernel: Available graphics memory: 2025780 kiB
+Jan 16 21:14:59 localhost kernel: [TTM] Initializing pool allocator
+Jan 16 21:14:59 localhost kernel: [TTM] Initializing DMA pool allocator
+Jan 16 21:14:59 localhost kernel: checking generic (e0000000 130000) vs hw (e0000000 1000000)
+Jan 16 21:14:59 localhost kernel: fb: switching to vboxdrmfb from VESA VGA
+Jan 16 21:14:59 localhost kernel: Console: switching to colour dummy device 80x25
+Jan 16 21:14:59 localhost kernel: fbcon: vboxdrmfb (fb0) is primary device
+Jan 16 21:14:59 localhost kernel: Console: switching to colour frame buffer device 100x37
+Jan 16 21:14:59 localhost kernel: vboxvideo 0000:00:02.0: fb0: vboxdrmfb frame buffer device
+Jan 16 21:14:59 localhost kernel: [drm] Initialized vboxvideo 1.0.0 20130823 for 0000:00:02.0 on minor 0
+Jan 16 21:14:59 localhost systemd-journald[147]: Journal started
+-- Subject: The journal has been started
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- The system journal process has started up, opened the journal
+-- files for writing and is now ready to process requests.
+Jan 16 21:14:59 localhost systemd-journald[147]: System journal (/var/log/journal/615f69d96adc418ab3c613f1603dfc4d) is 16.0M, max 4.0G, 3.9G free.
+-- Subject: Disk space used by the journal
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- System journal (/var/log/journal/615f69d96adc418ab3c613f1603dfc4d) is currently using 16.0M.
+-- Maximum allowed usage is set to 4.0G.
+-- Leaving at least 4.0G free (of currently available 71.3G of disk space).
+-- Enforced usage limit is thus 4.0G, of which 3.9G are still available.
+-- 
+-- The limits controlling how much disk space is used by the journal may
+-- be configured with SystemMaxUse=, SystemKeepFree=, SystemMaxFileSize=,
+-- RuntimeMaxUse=, RuntimeKeepFree=, RuntimeMaxFileSize= settings in
+-- /etc/systemd/journald.conf. See journald.conf(5) for details.
+Jan 16 21:14:58 localhost systemd-modules-load[153]: Inserted module 'vboxguest'
+Jan 16 21:14:58 localhost systemd-modules-load[153]: Inserted module 'vboxsf'
+Jan 16 21:14:58 localhost systemd-modules-load[153]: Inserted module 'vboxvideo'
+Jan 16 21:14:59 localhost systemd[1]: Starting Flush Journal to Persistent Storage...
+-- Subject: Unit systemd-journal-flush.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-journal-flush.service has begun starting up.
+Jan 16 21:14:59 localhost systemd-journald[147]: System journal (/var/log/journal/615f69d96adc418ab3c613f1603dfc4d) is 16.0M, max 4.0G, 3.9G free.
+-- Subject: Disk space used by the journal
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- System journal (/var/log/journal/615f69d96adc418ab3c613f1603dfc4d) is currently using 16.0M.
+-- Maximum allowed usage is set to 4.0G.
+-- Leaving at least 4.0G free (of currently available 71.3G of disk space).
+-- Enforced usage limit is thus 4.0G, of which 3.9G are still available.
+-- 
+-- The limits controlling how much disk space is used by the journal may
+-- be configured with SystemMaxUse=, SystemKeepFree=, SystemMaxFileSize=,
+-- RuntimeMaxUse=, RuntimeKeepFree=, RuntimeMaxFileSize= settings in
+-- /etc/systemd/journald.conf. See journald.conf(5) for details.
+Jan 16 21:14:59 localhost systemd[1]: Started Flush Journal to Persistent Storage.
+-- Subject: Unit systemd-journal-flush.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-journal-flush.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Starting Create Volatile Files and Directories...
+-- Subject: Unit systemd-tmpfiles-setup.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-tmpfiles-setup.service has begun starting up.
+Jan 16 21:14:59 localhost systemd[1]: Started udev Kernel Device Manager.
+-- Subject: Unit systemd-udevd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-udevd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Started Create Volatile Files and Directories.
+-- Subject: Unit systemd-tmpfiles-setup.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-tmpfiles-setup.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+-- Subject: Unit systemd-update-utmp.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-update-utmp.service has begun starting up.
+Jan 16 21:14:59 localhost kernel: input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input4
+Jan 16 21:14:59 localhost kernel: ACPI: Power Button [PWRF]
+Jan 16 21:14:59 localhost kernel: input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input5
+Jan 16 21:14:59 localhost kernel: ACPI: Sleep Button [SLPF]
+Jan 16 21:14:59 localhost systemd[1]: Started Update UTMP about System Boot/Shutdown.
+-- Subject: Unit systemd-update-utmp.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-update-utmp.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Reached target System Initialization.
+-- Subject: Unit sysinit.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit sysinit.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Started Daily Cleanup of Temporary Directories.
+-- Subject: Unit systemd-tmpfiles-clean.timer has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-tmpfiles-clean.timer has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Listening on D-Bus System Message Bus Socket.
+-- Subject: Unit dbus.socket has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit dbus.socket has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Reached target Sockets.
+-- Subject: Unit sockets.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit sockets.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Started Daily verification of password and group files.
+-- Subject: Unit shadow.timer has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit shadow.timer has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Started Daily man-db cache update.
+-- Subject: Unit man-db.timer has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit man-db.timer has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Started Daily rotation of log files.
+-- Subject: Unit logrotate.timer has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit logrotate.timer has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Reached target Timers.
+-- Subject: Unit timers.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit timers.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Reached target Basic System.
+-- Subject: Unit basic.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit basic.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost systemd[1]: Starting dhcpcd on all interfaces...
+-- Subject: Unit dhcpcd.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit dhcpcd.service has begun starting up.
+Jan 16 21:14:59 localhost systemd[1]: Started D-Bus System Message Bus.
+-- Subject: Unit dbus.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit dbus.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:14:59 localhost kernel: ACPI: AC Adapter [AC] (on-line)
+Jan 16 21:14:59 localhost kernel: ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Jan 16 21:14:59 localhost kernel: input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input6
+Jan 16 21:14:59 localhost dhcpcd[194]: dev: loaded udev
+Jan 16 21:14:59 localhost dhcpcd[194]: [0;1;31mno valid interfaces found[0m
+Jan 16 21:14:59 localhost dhcpcd[194]: forked to background, child pid 196
+Jan 16 21:15:00 localhost kernel: piix4_smbus 0000:00:07.0: SMBus Host Controller at 0x4100, revision 0
+Jan 16 21:15:00 localhost kernel: FUJITSU Extended Socket Network Device Driver - version 1.1 - Copyright (c) 2015 FUJITSU LIMITED
+Jan 16 21:15:00 localhost kernel: input: PC Speaker as /devices/platform/pcspkr/input/input7
+Jan 16 21:15:00 localhost kernel: e1000: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+Jan 16 21:15:00 localhost kernel: e1000: Copyright (c) 1999-2006 Intel Corporation.
+Jan 16 21:15:00 localhost kernel: mousedev: PS/2 mouse device common for all mice
+Jan 16 21:15:00 localhost kernel: RAPL PMU: API unit is 2^-32 Joules, 5 fixed counters, 10737418240 ms ovfl timer
+Jan 16 21:15:00 localhost kernel: RAPL PMU: hw unit of domain pp0-core 2^-0 Joules
+Jan 16 21:15:00 localhost kernel: RAPL PMU: hw unit of domain package 2^-0 Joules
+Jan 16 21:15:00 localhost kernel: RAPL PMU: hw unit of domain dram 2^-0 Joules
+Jan 16 21:15:00 localhost kernel: RAPL PMU: hw unit of domain pp1-gpu 2^-0 Joules
+Jan 16 21:15:00 localhost kernel: RAPL PMU: hw unit of domain psys 2^-0 Joules
+Jan 16 21:15:00 localhost kernel: input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input8
+Jan 16 21:15:01 localhost kernel: AVX version of gcm_enc/dec engaged.
+Jan 16 21:15:01 localhost kernel: AES CTR mode by8 optimization enabled
+Jan 16 21:15:01 localhost kernel: ppdev: user-space parallel port driver
+Jan 16 21:15:01 localhost kernel: e1000 0000:00:03.0 eth0: (PCI:33MHz:32-bit) 08:00:27:35:71:92
+Jan 16 21:15:01 localhost kernel: e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
+Jan 16 21:15:01 localhost kernel: e1000 0000:00:03.0 enp0s3: renamed from eth0
+Jan 16 21:15:01 localhost systemd[1]: Starting Login Service...
+-- Subject: Unit systemd-logind.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-logind.service has begun starting up.
+Jan 16 21:15:01 localhost systemd[1]: Started dhcpcd on all interfaces.
+-- Subject: Unit dhcpcd.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit dhcpcd.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:15:01 localhost kernel: snd_intel8x0 0000:00:05.0: white list rate for 1028:0177 is 48000
+Jan 16 21:15:01 localhost systemd[1]: Reached target Sound Card.
+-- Subject: Unit sound.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit sound.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:15:01 localhost systemd[1]: Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+-- Subject: Unit systemd-rfkill.socket has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-rfkill.socket has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:15:01 localhost systemd[1]: Started Verify integrity of password and group files.
+-- Subject: Unit shadow.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit shadow.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:15:01 localhost systemd[1]: Starting Update man-db cache...
+-- Subject: Unit man-db.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit man-db.service has begun starting up.
+Jan 16 21:15:01 localhost systemd[1]: Starting Rotate log files...
+-- Subject: Unit logrotate.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit logrotate.service has begun starting up.
+Jan 16 21:15:01 localhost systemd[1]: Started Rotate log files.
+-- Subject: Unit logrotate.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit logrotate.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:15:01 localhost systemd[1]: Started Login Service.
+-- Subject: Unit systemd-logind.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-logind.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:15:01 localhost systemd-logind[237]: New seat seat0.
+-- Subject: A new seat seat0 is now available
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- Documentation: http://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A new seat seat0 has been configured and is now available.
+Jan 16 21:15:01 localhost systemd-logind[237]: Watching system buttons on /dev/input/event3 (Power Button)
+Jan 16 21:15:01 localhost systemd-logind[237]: Watching system buttons on /dev/input/event4 (Sleep Button)
+Jan 16 21:15:01 localhost systemd-logind[237]: Watching system buttons on /dev/input/event5 (Video Bus)
+Jan 16 21:15:02 localhost dhcpcd[196]: enp0s3: waiting for carrier
+Jan 16 21:15:02 localhost kernel: IPv6: ADDRCONF(NETDEV_UP): enp0s3: link is not ready
+Jan 16 21:15:02 localhost dhcpcd[196]: enp0s3: waiting for carrier
+Jan 16 21:15:03 localhost kernel: floppy0: no floppy controllers found
+Jan 16 21:15:03 localhost kernel: work still pending
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/nl...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/nl...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/zh_TW...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/zh_TW...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/tr...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/tr...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/fr.UTF-8...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/fr.UTF-8...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/it...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/it...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/it.UTF-8...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/it.UTF-8...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/fr...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/fr...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/pl...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/pl...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/ja...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/ja...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/pl.ISO8859-2...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/pl.ISO8859-2...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/sv...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/sv...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/de...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/de...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/es...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/es...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/pt_BR...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/pt_BR...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/fr.ISO8859-1...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/fr.ISO8859-1...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/zh_CN...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/zh_CN...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/cs...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/cs...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/pt...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/pt...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/it.ISO8859-1...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/it.ISO8859-1...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/ru.KOI8-R...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/ru.KOI8-R...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/ko...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/ko...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/hu...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/hu...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/ru...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/ru...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/da...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/da...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/id...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/id...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/ru.UTF-8...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/ru.UTF-8...
+Jan 16 21:15:03 localhost mandb[243]: Purging old database entries in /usr/share/man/pl.UTF-8...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/share/man/pl.UTF-8...
+Jan 16 21:15:03 localhost mandb[243]: Processing manual pages under /usr/local/man...
+Jan 16 21:15:03 localhost mandb[243]: 0 man subdirectories contained newer manual pages.
+Jan 16 21:15:03 localhost mandb[243]: 0 manual pages were added.
+Jan 16 21:15:03 localhost mandb[243]: 0 stray cats were added.
+Jan 16 21:15:03 localhost mandb[243]: 20 old database entries were purged.
+Jan 16 21:15:03 localhost systemd[1]: Started Update man-db cache.
+-- Subject: Unit man-db.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit man-db.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:15:04 localhost kernel: e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Jan 16 21:15:04 localhost kernel: IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+Jan 16 21:15:04 localhost dhcpcd[196]: enp0s3: carrier acquired
+Jan 16 21:15:04 localhost dhcpcd[196]: DUID 00:01:00:01:20:0b:c5:d7:08:00:27:35:71:92
+Jan 16 21:15:04 localhost dhcpcd[196]: enp0s3: IAID 27:35:71:92
+Jan 16 21:15:04 localhost dhcpcd[196]: enp0s3: adding address fe80::9298:9b3a:5829:7d2f
+Jan 16 21:15:04 localhost dhcpcd[196]: enp0s3: soliciting an IPv6 router
+Jan 16 21:15:05 localhost dhcpcd[196]: enp0s3: rebinding lease of 10.0.2.15
+Jan 16 21:15:05 localhost dhcpcd[196]: enp0s3: probing address 10.0.2.15/24
+Jan 16 21:15:10 localhost dhcpcd[196]: enp0s3: leased 10.0.2.15 for 86400 seconds
+Jan 16 21:15:10 localhost dhcpcd[196]: enp0s3: adding route to 10.0.2.0/24
+Jan 16 21:15:10 localhost dhcpcd[196]: enp0s3: adding default route via 10.0.2.2
+Jan 16 21:15:17 localhost dhcpcd[196]: [0;1;39menp0s3: no IPv6 Routers available[0m
+Jan 16 21:16:28 localhost systemd[1]: [0;1;39msys-subsystem-net-devices-eth0.device: Job sys-subsystem-net-devices-eth0.device/start timed out.[0m
+Jan 16 21:16:28 localhost systemd[1]: [0;1;31mTimed out waiting for device sys-subsystem-net-devices-eth0.device.[0m
+-- Subject: Unit sys-subsystem-net-devices-eth0.device has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit sys-subsystem-net-devices-eth0.device has failed.
+-- 
+-- The result is timeout.
+Jan 16 21:16:28 localhost systemd[1]: [0;1;39mDependency failed for dhcpcd on eth0.[0m
+-- Subject: Unit dhcpcd@eth0.service has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit dhcpcd@eth0.service has failed.
+-- 
+-- The result is dependency.
+Jan 16 21:16:28 localhost systemd[1]: [0;1;39mdhcpcd@eth0.service: Job dhcpcd@eth0.service/start failed with result 'dependency'.[0m
+Jan 16 21:16:28 localhost systemd[1]: [0;1;39msys-subsystem-net-devices-eth0.device: Job sys-subsystem-net-devices-eth0.device/start failed with result 'timeout'.[0m
+Jan 16 21:16:28 localhost systemd[1]: Reached target Network.
+-- Subject: Unit network.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit network.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:28 localhost systemd[1]: Starting Permit User Sessions...
+-- Subject: Unit systemd-user-sessions.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-user-sessions.service has begun starting up.
+Jan 16 21:16:28 localhost systemd[1]: Started Permit User Sessions.
+-- Subject: Unit systemd-user-sessions.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-user-sessions.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:28 localhost systemd[1]: Started Getty on tty1.
+-- Subject: Unit getty@tty1.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit getty@tty1.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:28 localhost systemd[1]: Reached target Login Prompts.
+-- Subject: Unit getty.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit getty.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:28 localhost systemd[1]: Reached target Multi-User System.
+-- Subject: Unit multi-user.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit multi-user.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:28 localhost systemd[1]: Reached target Graphical Interface.
+-- Subject: Unit graphical.target has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit graphical.target has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:28 localhost systemd[1]: Startup finished in 5.840s (kernel) + 1min 32.409s (userspace) = 1min 38.250s.
+-- Subject: System start-up is now complete
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- All system services necessary queued for starting at boot have been
+-- successfully started. Note that this does not mean that the machine is
+-- now idle as services might still be busy with completing start-up.
+-- 
+-- Kernel start-up required 5840831 microseconds.
+-- 
+-- Initial RAM disk start-up required INITRD_USEC microseconds.
+-- 
+-- Userspace start-up required 92409590 microseconds.
+Jan 16 21:16:34 localhost login[305]: pam_unix(login:session): session opened for user eve by LOGIN(uid=0)
+Jan 16 21:16:34 localhost systemd[1]: Created slice User Slice of eve.
+-- Subject: Unit user-1000.slice has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user-1000.slice has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:34 localhost systemd[1]: Starting User Manager for UID 1000...
+-- Subject: Unit user@1000.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user@1000.service has begun starting up.
+Jan 16 21:16:34 localhost systemd-logind[237]: New session c1 of user eve.
+-- Subject: A new session c1 has been created for user eve
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- Documentation: http://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A new session with the ID c1 has been created for the user eve.
+-- 
+-- The leading process of the session is 305.
+Jan 16 21:16:34 localhost systemd[1]: Started Session c1 of user eve.
+-- Subject: Unit session-c1.scope has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit session-c1.scope has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:34 localhost systemd[306]: pam_unix(systemd-user:session): session opened for user eve by (uid=0)
+Jan 16 21:16:34 localhost systemd[306]: Reached target Paths.
+-- Subject: Unit UNIT has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit UNIT has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:34 localhost login[305]: LOGIN ON tty1 BY eve
+Jan 16 21:16:34 localhost systemd[306]: Starting D-Bus User Message Bus Socket.
+-- Subject: Unit UNIT has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit UNIT has begun starting up.
+Jan 16 21:16:34 localhost systemd[306]: Reached target Timers.
+-- Subject: Unit UNIT has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit UNIT has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:34 localhost systemd[306]: Listening on D-Bus User Message Bus Socket.
+-- Subject: Unit UNIT has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit UNIT has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:34 localhost systemd[306]: Reached target Sockets.
+-- Subject: Unit UNIT has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit UNIT has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:34 localhost systemd[306]: Reached target Basic System.
+-- Subject: Unit UNIT has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit UNIT has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:34 localhost systemd[306]: Reached target Default.
+-- Subject: Unit UNIT has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit UNIT has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:16:34 localhost systemd[306]: Startup finished in 122ms.
+-- Subject: System start-up is now complete
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- All system services necessary queued for starting at boot have been
+-- successfully started. Note that this does not mean that the machine is
+-- now idle as services might still be busy with completing start-up.
+-- 
+-- Kernel start-up required KERNEL_USEC microseconds.
+-- 
+-- Initial RAM disk start-up required INITRD_USEC microseconds.
+-- 
+-- Userspace start-up required 122730 microseconds.
+Jan 16 21:16:34 localhost systemd[1]: Started User Manager for UID 1000.
+-- Subject: Unit user@1000.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit user@1000.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:18:17 localhost systemd[306]: Started D-Bus User Message Bus.
+-- Subject: Unit UNIT has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit UNIT has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:18:18 localhost dbus-daemon[404]: Activating service name='org.gnome.GConf'
+Jan 16 21:18:18 localhost dbus-daemon[404]: Successfully activated service 'org.gnome.GConf'
+Jan 16 21:18:19 localhost dbus-daemon[404]: Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service'
+Jan 16 21:18:19 localhost systemd[306]: Starting Accessibility services bus...
+-- Subject: Unit UNIT has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit UNIT has begun starting up.
+Jan 16 21:18:19 localhost dbus-daemon[404]: Successfully activated service 'org.a11y.Bus'
+Jan 16 21:18:19 localhost systemd[306]: Started Accessibility services bus.
+-- Subject: Unit UNIT has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit UNIT has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:24:58 localhost at-spi-bus-launcher[413]: Activating service name='org.a11y.atspi.Registry'
+Jan 16 21:24:58 localhost at-spi-bus-launcher[413]: Successfully activated service 'org.a11y.atspi.Registry'
+Jan 16 21:24:58 localhost org.a11y.atspi.Registry[493]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Jan 16 21:26:47 localhost sudo[559]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/pip install django-bootstrap3[0m
+Jan 16 21:26:47 localhost sudo[559]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:26:56 localhost sudo[559]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:27:11 localhost sudo[573]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/pip install sortedm2m[0m
+Jan 16 21:27:11 localhost sudo[573]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:27:15 localhost sudo[573]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:27:22 localhost sudo[579]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/pip install django-sortedm2m[0m
+Jan 16 21:27:22 localhost sudo[579]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:27:25 localhost sudo[579]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:27:40 localhost sudo[593]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/pip install django_tables2[0m
+Jan 16 21:27:40 localhost sudo[593]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:28:54 localhost sudo[593]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:29:36 localhost sudo[619]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/pip install django-photologue[0m
+Jan 16 21:29:36 localhost sudo[619]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:29:58 localhost systemd[1]: Starting Cleanup of Temporary Directories...
+-- Subject: Unit systemd-tmpfiles-clean.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-tmpfiles-clean.service has begun starting up.
+Jan 16 21:29:58 localhost systemd[1]: Started Cleanup of Temporary Directories.
+-- Subject: Unit systemd-tmpfiles-clean.service has finished start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit systemd-tmpfiles-clean.service has finished starting up.
+-- 
+-- The start-up result is done.
+Jan 16 21:32:09 localhost sudo[619]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:32:25 localhost sudo[645]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/systemctl start postgresql[0m
+Jan 16 21:32:25 localhost sudo[645]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:32:25 localhost systemd[1]: Starting PostgreSQL database server...
+-- Subject: Unit postgresql.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit postgresql.service has begun starting up.
+Jan 16 21:32:25 localhost postgres[648]: "/var/lib/postgres/data" is missing or empty. Use a command like
+Jan 16 21:32:25 localhost postgres[648]:   su - postgres -c "initdb --locale en_US.UTF-8 -D '/var/lib/postgres/data'"
+Jan 16 21:32:25 localhost postgres[648]: with relevant options, to initialize the database cluster.
+Jan 16 21:32:25 localhost systemd[1]: [0;1;39mpostgresql.service: Control process exited, code=exited status=1[0m
+Jan 16 21:32:25 localhost systemd[1]: [0;1;31mFailed to start PostgreSQL database server.[0m
+-- Subject: Unit postgresql.service has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit postgresql.service has failed.
+-- 
+-- The result is failed.
+Jan 16 21:32:25 localhost systemd[1]: [0;1;39mpostgresql.service: Unit entered failed state.[0m
+Jan 16 21:32:25 localhost systemd[1]: [0;1;39mpostgresql.service: Failed with result 'exit-code'.[0m
+Jan 16 21:32:25 localhost sudo[645]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:32:38 localhost sudo[653]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/systemctl status postgresql[0m
+Jan 16 21:32:38 localhost sudo[653]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:32:38 localhost sudo[653]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:33:07 localhost sudo[656]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/systemctl status postgresql[0m
+Jan 16 21:33:07 localhost sudo[656]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:33:07 localhost sudo[656]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:34:17 localhost sudo[664]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/systemctl start postgresql[0m
+Jan 16 21:34:17 localhost sudo[664]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:34:17 localhost systemd[1]: Starting PostgreSQL database server...
+-- Subject: Unit postgresql.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit postgresql.service has begun starting up.
+Jan 16 21:34:17 localhost postgres[667]: "/var/lib/postgres/data" is missing or empty. Use a command like
+Jan 16 21:34:17 localhost postgres[667]:   su - postgres -c "initdb --locale en_US.UTF-8 -D '/var/lib/postgres/data'"
+Jan 16 21:34:17 localhost postgres[667]: with relevant options, to initialize the database cluster.
+Jan 16 21:34:17 localhost systemd[1]: [0;1;39mpostgresql.service: Control process exited, code=exited status=1[0m
+Jan 16 21:34:17 localhost systemd[1]: [0;1;31mFailed to start PostgreSQL database server.[0m
+-- Subject: Unit postgresql.service has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit postgresql.service has failed.
+-- 
+-- The result is failed.
+Jan 16 21:34:17 localhost systemd[1]: [0;1;39mpostgresql.service: Unit entered failed state.[0m
+Jan 16 21:34:17 localhost systemd[1]: [0;1;39mpostgresql.service: Failed with result 'exit-code'.[0m
+Jan 16 21:34:17 localhost sudo[664]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:34:23 localhost sudo[672]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/systemctl stop postgresql[0m
+Jan 16 21:34:23 localhost sudo[672]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:34:23 localhost sudo[672]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:34:25 localhost sudo[675]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/systemctl start postgresql[0m
+Jan 16 21:34:25 localhost sudo[675]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:34:25 localhost systemd[1]: Starting PostgreSQL database server...
+-- Subject: Unit postgresql.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit postgresql.service has begun starting up.
+Jan 16 21:34:25 localhost postgres[678]: "/var/lib/postgres/data" is missing or empty. Use a command like
+Jan 16 21:34:25 localhost postgres[678]:   su - postgres -c "initdb --locale en_US.UTF-8 -D '/var/lib/postgres/data'"
+Jan 16 21:34:25 localhost postgres[678]: with relevant options, to initialize the database cluster.
+Jan 16 21:34:25 localhost systemd[1]: [0;1;39mpostgresql.service: Control process exited, code=exited status=1[0m
+Jan 16 21:34:25 localhost systemd[1]: [0;1;31mFailed to start PostgreSQL database server.[0m
+-- Subject: Unit postgresql.service has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit postgresql.service has failed.
+-- 
+-- The result is failed.
+Jan 16 21:34:25 localhost systemd[1]: [0;1;39mpostgresql.service: Unit entered failed state.[0m
+Jan 16 21:34:25 localhost systemd[1]: [0;1;39mpostgresql.service: Failed with result 'exit-code'.[0m
+Jan 16 21:34:25 localhost sudo[675]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:34:40 localhost sudo[683]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/systemctl status postgresql[0m
+Jan 16 21:34:40 localhost sudo[683]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:34:40 localhost sudo[683]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:35:00 localhost sudo[687]: [0;1;39m     eve : TTY=pts/0 ; PWD=/home/eve/django_projects/weddingsite ; USER=root ; COMMAND=/usr/bin/systemctl start postgresql[0m
+Jan 16 21:35:00 localhost sudo[687]: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:35:00 localhost systemd[1]: Starting PostgreSQL database server...
+-- Subject: Unit postgresql.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit postgresql.service has begun starting up.
+Jan 16 21:35:00 localhost sudo[687]: pam_unix(sudo:session): session closed for user root
+Jan 16 21:35:00 localhost systemd[1]: [0;1;39mpostgresql.service: Control process exited, code=exited status=1[0m
+Jan 16 21:35:00 localhost postgres[690]: "/var/lib/postgres/data" is missing or empty. Use a command like
+Jan 16 21:35:00 localhost postgres[690]:   su - postgres -c "initdb --locale en_US.UTF-8 -D '/var/lib/postgres/data'"
+Jan 16 21:35:00 localhost postgres[690]: with relevant options, to initialize the database cluster.
+Jan 16 21:35:00 localhost systemd[1]: [0;1;31mFailed to start PostgreSQL database server.[0m
+-- Subject: Unit postgresql.service has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit postgresql.service has failed.
+-- 
+-- The result is failed.
+Jan 16 21:35:00 localhost systemd[1]: [0;1;39mpostgresql.service: Unit entered failed state.[0m
+Jan 16 21:35:00 localhost systemd[1]: [0;1;39mpostgresql.service: Failed with result 'exit-code'.[0m
