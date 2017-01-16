@@ -136,3 +136,5 @@ STATIC_URL = '/static/'
 MEDIA_URL='/site_media/'
 
 MEDIA_ROOT='/home/eve/django_project/weddingsite/media/'
+
+FIXTURE_DIRS = (os.path.join(BASE_DIR, 'fixtures'),)
