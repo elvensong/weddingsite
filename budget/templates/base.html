@@ -1,24 +1,61 @@
 <!DOCTYPE html>
+{% load static %}
 {% load bootstrap3 %}
 
 {% bootstrap_css %}
+<link rel="stylesheet" href="{% static "css/custom.css" %}">
 {% bootstrap_javascript %}
 
 <style>
-  body { padding-top: 50px; }
+  html, body {
+      height: 100%;
+  }
+
+  #holder {
+  min-height: 100%;
+  position: relative;
+  }
+
+  footer {
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  }
+
+   body { padding-top: 50px; }
   @media screen and (max-width: 768px) {
       body { padding-top: 0px; }
+  }
+
+  @media (min-width: 1200px) {
+  .container {
+      max-width: 970px;
+  }
+  }
+
+  #bg-img {
+  height: auto;
+  left:0;
+  min-height: 100%;
+  min-width: 1024px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: -9999;
   }
 </style>
 
 <meta charset="UTF-8">
+<div id="holder">
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="/">My Wedding</a>
+      <a class="navbar-brand" href="/"><span class="glyphicon glyphicon-heart-empty"></span>  My Wedding</a>
     </div>
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="/album/">Wedding Album</a></li>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="/album/">Wedding Album</a></li>
       <li><a href="#">Wedding Plan</a></li>
       <li><a href="/budget/">Budget</a></li>
       <li><a href="/locations/">Location</a></li>
@@ -26,12 +63,13 @@
   </div>
 </nav>
 <body>
-<div class="container">{% block body_block %}{% block content %}{% endblock %}{% endblock %}
+<div class="container" style="background-color: white;">{% block body_block %}{% block content %}{% endblock %}{% endblock %}
+<img id="bg-img" src="{% static "weddingsite/bg.jpg" %}"/>
 </body>
 </div>
 
 <footer class="footer">
-  <div class="container">
+  <div class="container text-right" style="background-color: white;">
     <p>
       Created by: Dung Eve<br>
       Contact Info <a href="mailto:dung.vu.eve@gmail.com">dung.vu.eve@gmail.com</a><br>
@@ -39,4 +77,4 @@
   </p>
   </div>
 </footer>
-
+</div>

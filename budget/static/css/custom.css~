@@ -1,0 +1,4 @@
+.h1 {
+    font-family: 'AbrilFatFace-Regular';
+    src: url('../fonts/AbrilFatFace-Regular.ttf')
+}
