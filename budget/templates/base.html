@@ -64,7 +64,7 @@
 </nav>
 <body>
 <div class="container" style="background-color: white;">{% block body_block %}{% block content %}{% endblock %}{% endblock %}
-<img id="bg-img" src="{% static "weddingsite/bg.jpg" %}"/>
+{% block bg-block %}<img id="bg-img" src="{% static "weddingsite/bg.jpg" %}"/>{% endblock %}
 </body>
 </div>
 
