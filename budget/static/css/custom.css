@@ -1,0 +1,12 @@
+h1 {
+    font-family: Abril;
+}
+
+@font-face {
+    font-family: Abril;
+    src: url('../fonts/aff.ttf');
+}
+
+#budget_tbl {
+    
+}

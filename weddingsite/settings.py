@@ -133,6 +133,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+STATIC_ROOT='/home/eve/django_project/weddingsite/static/'
+
 MEDIA_URL='/site_media/'
 
 MEDIA_ROOT='/home/eve/django_project/weddingsite/media/'
