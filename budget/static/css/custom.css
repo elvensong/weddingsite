@@ -7,6 +7,17 @@ h1 {
     src: url('../fonts/aff.ttf');
 }
 
+@font-face {
+    font-family:JosefinSlab-Bold;
+    src: url('../fonts/josefin_slab/josefinslab-bold.ttf');
+}
+
+@font-face {
+  font-family: Vollkorn;
+  src: url('../fonts/vollkorn-regular.ttf');
+}
+
+
 #budget_tbl {
     
 }
