@@ -31,7 +31,6 @@ ALLOWED_HOSTS = ['localhost', '172.16.40.227']
 # Application definition
 
 INSTALLED_APPS = [
-    'jquery',
     'bootstrap3',
     'sortedm2m',
     'photologue',
@@ -62,10 +61,12 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'weddingsite.urls'
 
+from photologue import PHOTOLOGUE_APP_DIR
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': [os.path.join(BASE_DIR, 'templates'), PHOTOLOGUE_APP_DIR],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -126,7 +127,7 @@ USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
+USE_TZ = False
 
 
 # Static files (CSS, JavaScript, Images)

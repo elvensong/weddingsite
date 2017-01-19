@@ -1,11 +1,11 @@
 {% extends 'base.html' %}
-
+th
 {% block body_block %}
   {% load static %}
 
   <script type="text/javascript" src="{% static "js/jquery.plugin.js" %}"></script>
   <script type="text/javascript" src="{% static "js/jquery.countdown.js" %}"></script>
-      
+
 <style>
   .jumbotron {
       position: relative;
@@ -36,18 +36,57 @@
   $(function() {
     $('.countdown').countdown({until: new Date(2017, 1, 12)});
   });
-    
+
 </script>
 
 <div class="jumbotron">
   <div id="jumbotron-panel" class="panel text-center" style="background: rgba(255,255,255,0.6)">
-    <h1><span style="color: #35A18E; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;">Dung</span> & <span style="color: #EE4340; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;">Trang</span></h1>
+    <h1><span style="color: #35A18E; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;">Dũng</span> & <span style="color: #EE4340; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;">Trang</span></h1>
     <h2 style="font-family: JosefinSlab-Bold"><strong>Invite YOU<br>To their wedding CEREBRATION</strong></h2>
     <h1 style="text-shadow: 0 0 10px #EE4340, 3px 3px #35A18E; color: white">12.02.2017</h1>
     <div class="countdown"></div>
   </div>
  </div>
-aaaaaaaaaaaaa
+<div class="container well">
+  <div class="row">
+    <div class="col-sm-6">
+      <h1 style="color: #35A18E" class="text-right">Dũng</h1>
+      <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+    </div>
+    <div class="col-sm-6">
+      <h1 style="color: #EE4340">Trang</h1>
+      <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+    </div>
+   </div>
+</div>
+<div class="container well">
+  <h1 class="text-center">Wedding Schedule</h1>
+  <svg width="950" height="100">
+    <circle cx="50" cy="50" r="5" fill="black"/>
+    <text x="15" y="23">15/1/2016 - 06:00
+      <tspan x="25" y="37">Lễ ăn hỏi</tspan>
+    </text>
+    <circle cx="270" cy="50" r="5" fill="black"/>
+    <text x="227" y="65">15/1/2016 - 15:00
+      <tspan x="220" y="79">Lễ cưới tại nhà gái</tspan>
+    </text>
+    <circle cx="770" cy="50" r="5" fill="black"/>
+    <text x="720" y="23">16/1/2016 - 05:45
+      <tspan x="730" y="37">Lễ đón dâu</tspan>
+    </text>
+    <circle cx="830" cy="50" r="5"/>
+    <text x="790" y="65">15/1/2016 - 09:30
+      <tspan x="790" y="79">Làm lễ tại nhà trai</tspan>
+    </text>
+    <circle cx="900" cy="50" r="5"/>
+    <text x="850" y="9">16/1/2016 - 11:00
+      <tspan x="855" y="23">Lễ cưới tại</tspan>
+      <tspan x="840" y="37">Diamond Palace</tspan>
+    </text>
+    <line x1="50" y1="50" x2="900" y2="50" style="stroke: black; stroke-width:3;"/>
+  </svg>
+</div>
+
 {% endblock %}
 
 {% block bg-block %}{% endblock %}

@@ -2,8 +2,12 @@
 {% block body_block %}
    {% load django_tables2 %}
 
-   <h1>Chi tiêu cho đám cưới</h1>
-   <a href="/budget/new">Add new</a>
+  <h1 class="text-center">Wedding Budget</h1>
+  <div style="padding-bottom: 10px;" id="ctrl-panel">
+    <div class="text-right">
+      <a href="/budget/new" class="btn btn-primary">Add new</a>
+      </div>
+  </div>
    {% render_table table %}
 
 <p>Total: </p>

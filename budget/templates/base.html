@@ -11,21 +11,19 @@
 {% bootstrap_javascript %}
 
 <style>
-  html, body {
-      height: 100%;
+
+  html {
+    height: 100%;
   }
 
+  body {
+    min-height: 100%;
+  }
+  
   #holder {
-  min-height: 100%;
-  position: relative;
-  }
-
-  footer {
-  height: 100px;
-  width: 100%;
-  position: absolute;
-  left: 0;
-  bottom: 0;
+  
+    height: 100%;
+    position: relative;
   }
 
    body { padding-top: 50px; }
@@ -49,10 +47,21 @@
   width: 100%;
   z-index: -9999;
   }
+
+  .flex-container {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  }
 </style>
 
+
 <meta charset="UTF-8">
-<div id="holder" style="font-family: Vollkorn;">
+
+<html>
+  <title>Our Wedding</title>
+  <body style="font-family: Vollkorn;">
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -66,10 +75,10 @@
       <li><a href="#">Couple Contacts</a></li>
   </div>
 </nav>
-<body>
-<div class="container" style="background-color: white;">{% block body_block %}{% block content %}{% endblock %}{% endblock %}
+<div id="holder" class="flex-container">
+
+<div class="container" style="background-color: white; height: 100%;">{% block body_block %}{% block content %}{% endblock %}{% endblock %}
 {% block bg-block %}<img id="bg-img" src="{% static "weddingsite/bg.jpg" %}"/>{% endblock %}
-</body>
 </div>
 
 <footer class="footer">
@@ -82,3 +91,5 @@
   </div>
 </footer>
 </div>
+  </body>
+</html>
