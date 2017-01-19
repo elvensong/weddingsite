@@ -3,7 +3,11 @@
 {% load bootstrap3 %}
 
 {% bootstrap_css %}
-<link rel="stylesheet" href="{% static "css/custom.css" %}">
+<link rel="stylesheet" type="text/css" href="{% static "css/custom.css" %}">
+<link rel="stylesheet" type="text/css" href="{% static "css/jquery.countdown.css" %}">
+<script type="text/javascript" src="{% static "js/jquery.js" %}"></script>
+
+
 {% bootstrap_javascript %}
 
 <style>
@@ -48,7 +52,7 @@
 </style>
 
 <meta charset="UTF-8">
-<div id="holder">
+<div id="holder" style="font-family: Vollkorn;">
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">

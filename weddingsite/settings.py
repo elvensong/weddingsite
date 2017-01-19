@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ['localhost', '172.16.40.227']
 # Application definition
 
 INSTALLED_APPS = [
+    'jquery',
     'bootstrap3',
     'sortedm2m',
     'photologue',

@@ -1,8 +1,11 @@
 {% extends 'base.html' %}
 
 {% block body_block %}
-{% load static %}
-<!-- <img src="{% static "weddingsite/jumbotron-bg.jpg" %}" /> -->
+  {% load static %}
+
+  <script type="text/javascript" src="{% static "js/jquery.plugin.js" %}"></script>
+  <script type="text/javascript" src="{% static "js/jquery.countdown.js" %}"></script>
+      
 <style>
   .jumbotron {
       position: relative;
@@ -13,12 +16,35 @@
       background-size: cover;
   overflow: hidden;
   padding-left: 15px !important;
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
   }
+
+  #jumbotron-panel {
+    width: 550px;
+    height: 100%;
+  }
+
+  .is-countdown {
+    border: none;
+    background-color: transparent;
+  }
+
 </style>
+
+<script>
+  $(function() {
+    $('.countdown').countdown({until: new Date(2017, 1, 12)});
+  });
+    
+</script>
+
 <div class="jumbotron">
-  <div class="panel" style="background: rgba(255,255,255,0.6)">
-    <h1>Welcome to our wedding</h1>
-    <p>...</p>
+  <div id="jumbotron-panel" class="panel text-center" style="background: rgba(255,255,255,0.6)">
+    <h1><span style="color: #35A18E; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;">Dung</span> & <span style="color: #EE4340; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;">Trang</span></h1>
+    <h2 style="font-family: JosefinSlab-Bold"><strong>Invite YOU<br>To their wedding CEREBRATION</strong></h2>
+    <h1 style="text-shadow: 0 0 10px #EE4340, 3px 3px #35A18E; color: white">12.02.2017</h1>
+    <div class="countdown"></div>
   </div>
  </div>
 aaaaaaaaaaaaa
